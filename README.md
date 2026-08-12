@@ -3,7 +3,7 @@
 Mapa interactivo de **puntos de acopio** y **donación de sangre** tras el terremoto de
 magnitud 7,4 con epicentro en San José del Palmar, Chocó, del **10 de agosto de 2026**.
 
-🔗 **Ver el mapa:** https://camilorubio.github.io/mapa-ayuda-colombia/
+🔗 **Ver el mapa:** https://paulabedoya.github.io/mapa-ayuda-colombia/
 
 ## Qué incluye
 
